@@ -1,0 +1,4 @@
+We are looking for a working student in AI automation and testing.
+You should have first experience with Python, APIs, Jira, testing, prompt engineering, and AI tools such as ChatGPT or LLM-based assistants.
+Experience with automation, structured analysis, Linux, Git, and cloud tools is a plus.
+You will analyze tickets, support quality assurance, generate test cases, and improve AI-supported workflows.

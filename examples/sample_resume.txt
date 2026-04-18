@@ -1,0 +1,5 @@
+Siyao Zhou
+M.Sc. Informatics student at TUM.
+Skills: Python, Docker, Linux, Git, GitHub, networking, testing, APIs, Java, OOP, data structures, algorithms.
+Experience: Built a low-latency virtualized networking testbed using Docker and Python. Automated technical workflows, debugged system behavior, and analyzed latency and stability.
+Interested in AI tools, cloud systems, and software engineering.
