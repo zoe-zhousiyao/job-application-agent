@@ -1,5 +1,18 @@
 # Job Application Agent
 
+## 🚀 Project Overview
+
+This project is a simple Agentic AI system that automates job application tasks:
+
+- Extract skills from job descriptions
+- Match them with candidate resumes
+- Generate tailored resume improvements
+- Generate cover letters automatically
+
+## 🧠 Agentic Workflow
+
+Input → Analysis → Matching → Generation
+
 A simple **Agentic AI** project for tailoring job applications.
 
 This project takes a **job description** and a **resume**, then runs a multi-step workflow to:
